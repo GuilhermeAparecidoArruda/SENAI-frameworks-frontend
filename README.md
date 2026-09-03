@@ -1,12 +1,43 @@
-# Frameworks Front-end – Conteúdos da Disciplina
+# Frameworks Front-end
 
-Este repositório reúne materiais didáticos, conteúdos teóricos, planos de aula, apresentações, atividades e exercícios da disciplina **Frameworks Front-end**.
+Repositório de estudos da disciplina **Frameworks Front-end** do SENAI. Aqui ficam os resumos das aulas, atividades práticas, pesquisas e projetos desenvolvidos ao longo do semestre.
 
-O objetivo deste repositório é centralizar e organizar os conteúdos desenvolvidos ao longo da disciplina, servindo como apoio ao processo de ensino-aprendizagem, revisão dos conceitos, desenvolvimento de aplicações web e consulta acadêmica.
+> O conteúdo será atualizado conforme novas aulas e repositórios de atividades forem adicionados.
+
+## Navegação
+
+- [Aulas e materiais](#aulas-e-materiais)
+- [Atividades](#atividades)
+- [Tecnologias estudadas](#tecnologias-estudadas)
+- [Objetivos](#objetivos)
+- [Organização](#organização)
+- [Avaliação](#avaliação)
 
 ---
 
-# 🎯 Objetivo da Disciplina
+## Aulas e materiais
+
+| Aula | Tema | Material | Status |
+| :--: | --- | --- | :--: |
+| 01 | Apresentação e contextualização | [Resumo da Aula 01](Aulas/aula1/resumo%20aula1.md) | ✅ |
+| 02 | Configuração do ambiente de desenvolvimento | [Resumo da Aula 02](Aulas/aula2/resumo%20aula2.md) | ✅ |
+| 03 | Projetos com frameworks front-end | [Resumo da Aula 03](Aulas/aula3/reusmo%20aula3.md) | ✅ |
+| 04 | Frameworks CSS e consumo de APIs | [Atividade 01](Aulas/aula4/atividade1.md) | 🚧 |
+| 05 em diante | A definir | Em breve | ⏳ |
+
+## Atividades
+
+| Aula | Atividade | Tecnologia | Repositório | Deploy | Status |
+| :--: | --- | --- | --- | --- | :--: |
+| 04 | [Projetos do GitHub que utilizam APIs](Aulas/aula4/atividade1.md) | APIs e frameworks front-end | [Pesquisa](Aulas/aula4/atividade1.md) | — | ✅ |
+| 05 | Projeto Next.js | Next.js | [SENAI-project-next.js](https://github.com/GuilhermeAparecidoArruda/SENAI-project-next.js) | [Acessar](https://senai-project-next-js-1bcj-gold.vercel.app/) | ✅ |
+| 05 | Projeto Express front-end | Express e JavaScript | [Projeto-express-frontend](https://github.com/GuilhermeAparecidoArruda/Projeto-express-frontend) | [Acessar](https://projeto-express-frontend.vercel.app/) | ✅ |
+| 05 | Projeto Express back-end | Express e Node.js | [Projeto-express-backend](https://github.com/GuilhermeAparecidoArruda/Projeto-express-backend) | [API](https://projeto-express-backend-1.onrender.com/) | ✅ |
+| 05 | Atividade Angular | Angular | [first-app-angular](https://github.com/GuilhermeAparecidoArruda/first-app-angular) | [Acessar](https://first-app-angular-ten.vercel.app/dashboard) | ✅ |
+| 05 | Atividade Vue | Vue.js | [SENAI-projeto-vue](https://github.com/GuilhermeAparecidoArruda/SENAI-projeto-vue) | [Acessar](https://senai-projeto-vue-alpha.vercel.app/) | ✅ |
+| 05 | Projeto React | React | [react-first-college-project](https://github.com/GuilhermeAparecidoArruda/react-first-college-project) | [Acessar](https://react-first-college-project-one.vercel.app/) | ✅ |
+
+## Sobre a disciplina
 
 A disciplina de **Frameworks Front-end** tem como finalidade desenvolver competências para a programação de aplicações web responsivas, utilizando tecnologias e frameworks modernos voltados ao desenvolvimento de interfaces para a internet.
 
@@ -14,55 +45,45 @@ Ao longo da disciplina, o estudante aprenderá a configurar ambientes de desenvo
 
 ---
 
-# 📚 Conteúdos Abordados
+## Tecnologias estudadas
 
-Os materiais deste repositório estão organizados conforme o desenvolvimento da disciplina.
-
-## Tecnologias Front-end
-
-- Conceitos de desenvolvimento Front-end
-- Responsividade
-- Ferramentas do desenvolvedor
-- Conceitos de Framework
-
-## Framework para CSS
-
-- Definição
-- Instalação
-- Configuração
-- Utilização
-
-## Framework para Front-end
-
-- Definição
-- Configuração do ambiente
-- Gerenciamento de pacotes (NPM)
-- Rotas
-- Componentes
-- Propriedades
-- Estados
+- HTML5 e CSS3
+- JavaScript (Vanilla JS)
+- Git e GitHub
+- NPM e Node.js
+- Bootstrap e outros frameworks CSS
+- React
+- Vue.js
+- Angular
+- Next.js
+- Vercel e outras plataformas de deploy
 
 ---
 
-# 💡 Capacidades Desenvolvidas
+## Objetivos
 
-Ao final da disciplina espera-se que o estudante seja capaz de:
-
-- Configurar ambientes de desenvolvimento para aplicações Web;
-- Aplicar tecnologias Front-end na construção de interfaces;
-- Elaborar códigos seguindo boas práticas e convenções de desenvolvimento;
-- Definir frameworks adequados às necessidades do projeto;
-- Desenvolver aplicações web responsivas considerando princípios de UX.
-
-Além das competências técnicas, serão desenvolvidas competências relacionadas à:
-
-- Ética profissional;
-- Pensamento crítico e inovação;
-- Resolução de problemas complexos.
+- Configurar ambientes de desenvolvimento para aplicações web.
+- Aplicar tecnologias front-end na construção de interfaces responsivas.
+- Criar componentes reutilizáveis e organizar projetos com boas práticas.
+- Escolher frameworks de acordo com as necessidades de cada projeto.
+- Integrar aplicações front-end com APIs.
+- Utilizar Git e GitHub no fluxo de desenvolvimento.
+- Publicar aplicações na web.
 
 ---
 
-# 🧑‍🏫 Metodologia
+## Organização
+
+Cada aula possui uma pasta própria dentro de [`Aulas/`](Aulas/), que pode conter:
+
+- `resumo.md` ou um resumo específico da aula;
+- atividades e exercícios;
+- códigos desenvolvidos;
+- links para projetos e materiais complementares.
+
+Quando os repositórios de tarefas forem adicionados, eles serão relacionados na seção **Atividades**, com links para o código e para a aplicação publicada, quando houver.
+
+## Metodologia
 
 Os conteúdos deste repositório refletem as metodologias adotadas na disciplina, tais como:
 
@@ -77,7 +98,7 @@ Os conteúdos deste repositório refletem as metodologias adotadas na disciplina
 
 ---
 
-# 📝 Avaliação
+## Avaliação
 
 A avaliação da disciplina seguirá a distribuição estabelecida para as unidades curriculares dos Cursos Superiores de Tecnologia e Bacharelado:
 
@@ -87,7 +108,15 @@ A avaliação da disciplina seguirá a distribuição estabelecida para as unida
 
 ---
 
-# 📖 Referências Bibliográficas
+## Capacidades desenvolvidas
+
+Ao final da disciplina, espera-se que o estudante consiga configurar ambientes, desenvolver interfaces responsivas, aplicar boas práticas, selecionar frameworks adequados e considerar princípios de UX. Também serão trabalhados pensamento crítico, inovação, ética profissional e resolução de problemas.
+
+## Previsão das aulas
+
+O planejamento contempla apresentação da disciplina, configuração do ambiente, responsividade, frameworks CSS, projeto integrador, frameworks front-end, componentes, propriedades, estados, eventos, rotas, boas práticas, deploy, apresentação, tendências e revisão geral.
+
+## Referências bibliográficas
 
 ## Bibliografia Básica
 
@@ -105,35 +134,8 @@ A avaliação da disciplina seguirá a distribuição estabelecida para as unida
 
 ---
 
-## 🗓️ Previsão das Aulas
+## Disciplina
 
-| Aula | Conteúdo                                                |
-| :--: | ------------------------------------------------------- |
-|  01  | Apresentação da Disciplina e Ecossistema Front-end      |
-|  02  | Configuração do Ambiente de Desenvolvimento             |
-|  03  | Responsividade e Ferramentas do Desenvolvedor           |
-|  04  | Frameworks CSS                                          |
-|  05  | Projeto Integrador (PII) – Planejamento da Interface    |
-|  06  | Introdução aos Frameworks Front-end                     |
-|  07  | Estrutura de um Projeto Front-end                       |
-|  08  | Componentes e Propriedades                              |
-|  09  | Projeto Integrador (PII) – Desenvolvimento da Interface |
-|  10  | Estados e Eventos                                       |
-|  11  | Rotas e Navegação                                       |
-|  12  | Autoavaliação Institucional                             |
-|  13  | Projeto Integrador (PII) – Integração dos Componentes   |
-|  14  | Boas Práticas no Desenvolvimento Front-end              |
-|  15  | Avaliação Integradora                                   |
-|  16  | Publicação e Deploy de Aplicações                       |
-|  17  | Preparação das Apresentações do Projeto                 |
-|  18  | Bancas do Projeto Integrador e Autoavaliação Discente   |
-|  19  | Tendências em Desenvolvimento Front-end                 |
-|  20  | Revisão Geral e Encerramento da Disciplina              |
+**Frameworks Front-end — SENAI**
 
----
-
-# ⚠️ Observações
-
-Os conteúdos disponibilizados neste repositório possuem finalidade exclusivamente educacional e acompanham o desenvolvimento da disciplina.
-
-Os materiais poderão ser atualizados ao longo do semestre conforme o planejamento didático, os objetivos de aprendizagem e as referências bibliográficas adotadas.
+Este repositório tem finalidade educacional e poderá ser atualizado ao longo do semestre.
