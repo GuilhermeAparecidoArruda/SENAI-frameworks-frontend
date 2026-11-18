@@ -19,11 +19,15 @@ Repositório de estudos da disciplina **Frameworks Front-end** do SENAI. Aqui fi
 
 | Aula | Tema | Material | Status |
 | :--: | --- | --- | :--: |
-| 01 | Apresentação e contextualização | [Resumo da Aula 01](Aulas/aula1/resumo%20aula1.md) | ✅ |
-| 02 | Configuração do ambiente de desenvolvimento | [Resumo da Aula 02](Aulas/aula2/resumo%20aula2.md) | ✅ |
-| 03 | Projetos com frameworks front-end | [Resumo da Aula 03](Aulas/aula3/reusmo%20aula3.md) | ✅ |
-| 04 | Frameworks CSS e consumo de APIs | [Atividade 01](Aulas/aula4/atividade1.md) | 🚧 |
-| 05 em diante | A definir | Em breve | ⏳ |
+| 01 | Apresentação da Disciplina e Contextualização | [Resumo da Aula 01](Aulas/aula1/resumo%20aula1.md) | ✅ |
+| 02 | Configuração do Ambiente de Desenvolvimento | [Resumo da Aula 02](Aulas/aula2/resumo%20aula2.md) | ✅ |
+| 03 | Projetos com Frameworks Front-end | [Resumo da Aula 03](Aulas/aula3/resumo%20aula3.md) | ✅ |
+| 04 | Consumindo APIs no Front-end | [Resumo da Aula 04](Aulas/aula4/resumo%20aula4.md) / [Atividade 01](Aulas/aula4/atividade1.md) | ✅ |
+| 05 | Criando APIs para o Front-end | [Resumo da Aula 05](Aulas/aula5/resumo%20aula5.md) | ✅ |
+| 06 | Projetos Front-end | [Resumo da Aula 06](Aulas/aula6/resumo%20aula6.md) | ✅ |
+| 07 | Frameworks CSS | [Resumo da Aula 07](Aulas/aula7/resumo%20aula7.md) | ✅ |
+| 08 | Projeto React | [Resumo da Aula 08](Aulas/aula8/resumo%20aula8.md) | ✅ |
+| 09 | Projeto React 02 | [Resumo da Aula 09](Aulas/aula9/resumo%20aula9.md) | ✅ |
 
 ## Atividades
 
